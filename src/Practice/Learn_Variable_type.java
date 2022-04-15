@@ -1,4 +1,4 @@
-package homeWork_01_Practice;
+package Practice;
 
 public class Learn_Variable_type {
 	
